@@ -24,7 +24,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
-PICS = (environ.get('PICS', 'https://telegra.ph/file/ebad2eb29a3d2702e1531.jpg https://telegra.ph/file/5250452a1ab5364cfc4dc.jpg https://telegra.ph/file/68a707b00e8e88ed3c4a4.jpg https://telegra.ph/file/f44b3f7381cbf2e7708bb.jpg https://telegra.ph/file/4aaa6122c1fe3b71cf52c.jpg https://telegra.ph/file/486a9c2e80ed1729a345f.jpg https://telegra.ph/file/b165f958d038b903d43e1.jpg https://telegra.ph/file/989a744a60c061838444f.jpg https://telegra.ph/file/ff8f67820985179067982.jpg https://telegra.ph/file/3d8c714a3b0c04bfdec7e.jpg https://telegra.ph/file/fd0e1a19b0268c005edf8.jpg https://telegra.ph/file/8cfe0b5ceaa7b969448c4.jpg https://telegra.ph/file/5965fb86394de52b45e31.jpg https://telegra.ph/file/b826e4fabf1bf0fa72db3.jpg https://telegra.ph/file/baba127a57d74bc19e956.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://telegra.ph/file/db9bb9b178e4a3e4a83cc.jpg https://telegra.ph/file/d84b4cec5c264fee11476.jpg https://telegra.ph/file/da3c92908fcf2263f9d8c.jpg https://telegra.ph/file/29406bacca1a9cebbe303.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://te.legra.ph/file/a27dc8fe434e6b846b0f8.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_Download_Links")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
@@ -60,7 +60,7 @@ PREMIUM_AND_REFERAL_MODE = bool(environ.get('PREMIUM_AND_REFERAL_MODE', True)) #
 # If PREMIUM_AND_REFERAL_MODE is True Then Fill Below Variable, If Flase Then No Need To Fill.
 REFERAL_COUNT = int(environ.get('REFERAL_COUNT', '20')) # number of referal count
 REFERAL_PREMEIUM_TIME = environ.get('REFERAL_PREMEIUM_TIME', '1month')
-PAYMENT_QR = environ.get('PAYMENT_QR', 'https://graph.org/file/55749b0d3eaee3a5b958b.jpg')
+PAYMENT_QR = environ.get('PAYMENT_QR', 'https://telegra.ph/file/3d427b8cb026689aca555.jpg')
 PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - \n\n- 30ʀs - 1 ᴡᴇᴇᴋ\n- 50ʀs - 1 ᴍᴏɴᴛʜs\n- 120ʀs - 3 ᴍᴏɴᴛʜs\n- 220ʀs - 6 ᴍᴏɴᴛʜs\n\n🎁 ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇs 🎁\n\n○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪғʏ\n○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ\n○ ᴅɪʀᴇᴄᴛ ғɪʟᴇs\n○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ\n○ ʜɪɢʜ-sᴘᴇᴇᴅ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ\n○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs\n○ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs\n○ ꜰᴜʟʟ ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ\n○ ʀᴇǫᴜᴇsᴛ ᴡɪʟʟ ʙᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ 1ʜ ɪꜰ ᴀᴠᴀɪʟᴀʙʟᴇ\n\n✨ ᴜᴘɪ ɪᴅ - <code>No</code>\n\nᴄʟɪᴄᴋ ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ /myplan\n\n💢 ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ\n\n‼️ ᴀғᴛᴇʀ sᴇɴᴅɪɴɢ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴘʟᴇᴀsᴇ ɢɪᴠᴇ ᴜs sᴏᴍᴇ ᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ</b>')
 OWNER_USERNAME = environ.get('OWNER_USERNAME', 'Billy_Butcher_Man') # owner username without @
 
